@@ -60,3 +60,5 @@ of the target machine:
 
 And BOOM, we have successfully gained control of the root account, without actually knowing the root password
 (aka. successful privilege escalation)
+
+CREDIT AND MY SINCERE GRATITUDE, TO THE ORIGINAL CREATOR OF THIS LESSON.
